@@ -1,0 +1,5 @@
+site_name: nextjs-sample
+site_description: nextjs-sample
+
+plugins:
+  - techdocs-core
