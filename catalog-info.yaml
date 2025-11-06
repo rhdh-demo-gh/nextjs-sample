@@ -6,6 +6,7 @@ metadata:
   annotations:
     argocd/app-name: nextjs-sample
     backstage.io/kubernetes-id: nextjs-sample
+    backstage.io/source-location: url:https://github.com/rhdh-demo-gh/nextjs-sample
     backstage.io/kubernetes-label-selector: 'app.kubernetes.io/instance=nextjs-sample'
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: rhdh-demo-gh/nextjs-sample
